@@ -1,0 +1,12 @@
+In the United States, the prevalence of car accidents is a pressing concern, with an estimated
+38,824 deaths and 4.4 million injuries reported in 2019 alone, according to the 
+National Highway Traffic Safety Administration (NHTSA). The human toll of these incidents is 
+staggering, leaving families shattered and communities grappling with the aftermath.
+
+Our mission is rooted in a commitment to curb this alarming trend. 
+Through a project leveraging technology, we aim to address the root causes of accidents
+by implementing a camera system attached to stop signs. This innovative approach seeks to
+capture instances of reckless driving and law violations, ultimately acting as a deterrent 
+to reduce accidents and save lives. By combining surveillance with proactive intervention, 
+our objective is to contribute to a safer road environment for everyone. Together, let's 
+pave the way for a future where preventable accidents are minimized, and our roads become safer for all.
